@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Mrun-edu&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Emirhan%20Uzan&descAlignY=55&descAlign=50" />
 
   ### 👨‍💻 About Me
 
