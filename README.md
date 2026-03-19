@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Emirhan%20Uzan&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hi%20There&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Emirhan%20Uzan&descAlignY=55&descAlign=50" />
 
-  <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Emirhan!</h1>
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
   <h3>Cyber Security Enthusiast & Software Developer from Türkiye</h3>
 
   <p>
