@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hi%20There&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Emirhan%20Uzan&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&text=Rooting%20into%20Emirhan's%20System...&fontSize=40&animation=fadeIn&fontColor=00FF00" />
 
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
-  <h3>Cyber Security Enthusiast & Software Developer from Türkiye</h3>
+  <br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Mrun-edu&label=Profile%20views&color=0e75b6&style=flat" alt="Mrun-edu" />
-  </p>
-</div>
-  <h3>Cyber Security Enthusiast & Software Developer from Türkiye</h3>
+  <h1>Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Emirhan!</h1>
+  <h3>⚡ Cyber Security Enthusiast & Software Developer ⚡</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Mrun-edu&label=Profile%20views&color=0e75b6&style=flat" alt="Mrun-edu" />
+    <img src="https://komarev.com/ghpvc/?username=Mrun-edu&label=Profile%20views&color=212121&style=flat-square" alt="Mrun-edu" />
   </p>
 </div>
 
@@ -31,16 +27,14 @@ I'm a passionate developer focused on **Cyber Security (Red Teaming & Malware De
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </p>
 
 ---
