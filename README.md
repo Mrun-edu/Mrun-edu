@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&text=Rooting%20into%20Emirhan's%20System...&fontSize=40&animation=fadeIn&fontColor=00FF00" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Rooting+into+Emirhan's+System...;Cyber+Security+Enthusiast;Malware+Development;Red+Teaming+Practice" alt="Typing SVG" />
 
   <br/>
 
@@ -27,9 +27,9 @@ I'm a passionate developer focused on **Cyber Security (Red Teaming & Malware De
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;
