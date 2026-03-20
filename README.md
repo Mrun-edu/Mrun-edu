@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Rooting+into+Emirhan's+System...;Cyber+Security+Enthusiast;Malware+Development;Red+Teaming+Practice" alt="Typing SVG" />
+  <a href="https://giphy.com/gifs/Pylones-Hellas-cyber-security-pylones-hellas-MBZOqena8Mqn7oHjP9" target="_blank">
+    <img src="https://media3.giphy.com/media/MBZOqena8Mqn7oHjP9/giphy.gif" alt="Cyber Security Radar" width="600" />
+  </a>
 
+  <br/>
   <br/>
 
   <h1>Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Emirhan!</h1>
