@@ -44,7 +44,6 @@ I'm a passionate developer focused on **Cyber Security (Red Teaming & Malware De
   </table>
 </div>
 
----
 
 ---
 
