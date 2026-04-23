@@ -44,13 +44,13 @@ I'm a passionate developer focused on **Cyber Security (Red Teaming & Malware De
 
 ### 📊 Performance & Skills
 
-<table align="center">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=Mrun-edu&theme=tokyonight&mode=weekly" alt="GitHub Streak" height="170" />
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://streak-stats.demolab.com?user=Mrun-edu&theme=tokyonight&mode=weekly&count_private=true" alt="GitHub Streak" height="170" />
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrun-edu&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="170" />
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrun-edu&layout=compact&theme=tokyonight&hide=html,css&card_width=350" alt="Top Langs" height="170" />
     </td>
   </tr>
 </table>
