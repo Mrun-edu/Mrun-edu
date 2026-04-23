@@ -30,13 +30,13 @@ I'm a passionate developer focused on **Cyber Security (Red Teaming & Malware De
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </p>
 
@@ -44,10 +44,16 @@ I'm a passionate developer focused on **Cyber Security (Red Teaming & Malware De
 
 ### 📊 Performance & Skills
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mrun-edu&theme=tokyonight&mode=weekly" alt="GitHub Streak" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrun-edu&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="170" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com?user=Mrun-edu&theme=tokyonight&mode=weekly" alt="GitHub Streak" height="170" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrun-edu&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="170" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,7 +62,7 @@ I'm a passionate developer focused on **Cyber Security (Red Teaming & Malware De
 <p align="center">
   <a href="https://linkedin.com/in/emirhan-uzan-4a5552265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>&nbsp;
+  </a>
   <a href="mailto:emirhanuzan2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
